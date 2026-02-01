@@ -94,11 +94,10 @@
 
 
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naineshbhagat902-lgtm/naineshbhagat902-lgtm/output/github-contribution-grid-snake.svg">
+## 🐍 Contribution Snake (Version 2)
 
----
+<img src="https://raw.githubusercontent.com/naineshbhagat902-lgtm/naineshbhagat902-lgtm/output/github-snake-2.svg">
+
 
 ⭐ **AI is the future — and I'm building it. Follow to grow together.**
  /></p>
