@@ -64,31 +64,39 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nainesh-bhagat&theme=algolia&row=1&no-frame=true" />
+ ## 📊 GitHub Stats
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naineshbhagat902-lgtm&show_icons=true&theme=dark">
+
+<img src="https://streak-stats.demolab.com?user=naineshbhagat902-lgtm&theme=dark">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naineshbhagat902-lgtm&layout=compact&theme=dark">
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainesh-bhagat&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nainesh-bhagat&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naineshbhagat902-lgtm&show_icons=true&theme=tokyonight">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainesh-bhagat&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=naineshbhagat902-lgtm&theme=tokyonight">
 
----
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naineshbhagat902-lgtm&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naineshbhagat902-lgtm&show_icons=true&theme=tokyonight">
+
+<img src="https://streak-stats.demolab.com?user=naineshbhagat902-lgtm&theme=tokyonight">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naineshbhagat902-lgtm&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naineshbhagat902-lgtm&show_icons=true&theme=tokyonight">
+
+
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/nainesh-bhagat/nainesh-bhagat/blob/output/github-contribution-grid-snake.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/naineshbhagat902-lgtm/naineshbhagat902-lgtm/output/github-contribution-grid-snake.svg">
 
 ---
 
