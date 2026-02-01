@@ -1,39 +1,97 @@
-# Nainesh-bhagat
 <h1 align="center">Hi 👋, I'm Nainesh Bhagat</h1>
-<h3 align="center">Turning data into intelligence | AI/ML projects by a passionate learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nainesh-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="nainesh-bhagat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nainesh-bhagat" alt="nainesh-bhagat" /></a> </p>
-
-- 🔭 I’m currently working on **🤖 AI Chatbot using Python & NLP**
-
-- 🌱 I’m currently learning **Python, TensorFlow,Css, C++, Machine learning, C programming,Data Science**
-
-- 👯 I’m looking to collaborate on **📈 Machine Learning & AI open-source projects**
-
-- 🤝 I’m looking for help with **🧠 Deep Learning model optimization**
-
-- 📝 I regularly write articles on [Medium | Dev.to | Blog](Medium | Dev.to | Blog)
-
-- 💬 Ask me about **AI/ML, Python, Neural Networks, Data Science**
-
-- 📫 How to reach me **naineshbhagat902@gmail.com**
-
-- ⚡ Fun fact **I turn coffee into code ☕💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/naineshbhagatxx__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naineshbhagatxx__" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/402107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="402107" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Machine+Learning+Developer;Python+%7C+TensorFlow+%7C+Deep+Learning;Turning+Data+Into+Intelligence+🤖" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nainesh-bhagat&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nainesh-bhagat&show_icons=true&locale=en&layout=compact" alt="nainesh-bhagat" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nainesh-bhagat&show_icons=true&locale=en" alt="nainesh-bhagat" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nainesh-bhagat&" alt="nainesh-bhagat" /></p>
+## 🚀 About Me
+- 👨‍💻 **AI & ML Engineer | Developer**
+- 🔭 Building **AI Chatbots, ML Models & NLP Systems**
+- 🌱 Learning **Advanced Deep Learning & Model Optimization**
+- 👯 Looking to collaborate on **AI / ML Open Source Projects**
+- 🤝 Open to **Research, Internships & Freelance AI Work**
+- 💬 Ask me about **AI, ML, Python, Neural Networks**
+- ⚡ Fun fact: *I turn coffee into scalable AI systems ☕🤖*
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/naineshbhagatxx__">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://www.topcoder.com/members/402107">
+    <img src="https://img.shields.io/badge/TopCoder-Competitive%20Programmer-blue?style=for-the-badge"/>
+  </a>
+  <a href="mailto:naineshbhagat902@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🧠 AI / ML Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,pandas,numpy,opencv,linux,git,github,mysql,aws" />
+</p>
+
+---
+
+## 📌 Featured Projects
+🚀 *Real projects make recruiters stop scrolling*
+
+- 🤖 **AI Chatbot using Python & NLP**  
+  _Intent detection, text preprocessing, ML-based responses_
+
+- 📊 **Machine Learning Prediction Models**  
+  _Regression, classification, feature engineering_
+
+- 🧠 **Deep Learning Experiments**  
+  _Neural networks, CNNs, optimization techniques_
+
+📌 *(Add GitHub repo links here when ready)*
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nainesh-bhagat&theme=algolia&row=1&no-frame=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nainesh-bhagat&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nainesh-bhagat&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainesh-bhagat&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/nainesh-bhagat/nainesh-bhagat/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ **AI is the future — and I'm building it. Follow to grow together.**
+ /></p>
 
